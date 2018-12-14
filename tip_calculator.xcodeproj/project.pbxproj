@@ -14,6 +14,7 @@
 		C08D201721C31F4800403B28 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C08D201521C31F4800403B28 /* LaunchScreen.storyboard */; };
 		C08D202221C31F4800403B28 /* tip_calculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C08D202121C31F4800403B28 /* tip_calculatorTests.swift */; };
 		C08D202D21C31F4800403B28 /* tip_calculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C08D202C21C31F4800403B28 /* tip_calculatorUITests.swift */; };
+		C08D203B21C3327F00403B28 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C08D203A21C3327F00403B28 /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		C08D202821C31F4800403B28 /* tip_calculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = tip_calculatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C08D202C21C31F4800403B28 /* tip_calculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tip_calculatorUITests.swift; sourceTree = "<group>"; };
 		C08D202E21C31F4800403B28 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C08D203A21C3327F00403B28 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				C08D200C21C31F4200403B28 /* AppDelegate.swift */,
 				C08D200E21C31F4200403B28 /* ViewController.swift */,
+				C08D203A21C3327F00403B28 /* SettingsViewController.swift */,
 				C08D201021C31F4200403B28 /* Main.storyboard */,
 				C08D201321C31F4800403B28 /* Assets.xcassets */,
 				C08D201521C31F4800403B28 /* LaunchScreen.storyboard */,
@@ -258,6 +261,7 @@
 			files = (
 				C08D200F21C31F4200403B28 /* ViewController.swift in Sources */,
 				C08D200D21C31F4200403B28 /* AppDelegate.swift in Sources */,
+				C08D203B21C3327F00403B28 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
