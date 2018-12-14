@@ -18,7 +18,7 @@ The following ** additional** features are implemented:
 
 ## Video Walkthrough
 
-<img src='http://i.imgur.com/a/vs5fASC.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/vs5fASC"><a href="//imgur.com/vs5fASC"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ## Notes 
 I'm new to IOS and mobile development in general and it took me a while to get familiarized with Swift and Xcode. The tutorial was simple but working on your own with no experience can be tricky. Still I tool a crack at a few of the bonus features and implemented one from the examples that I liked. There are still plenty more that I'd like to add and I will continue working on this app whenever I can.
