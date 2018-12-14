@@ -17,7 +17,8 @@ The following ** additional** features are implemented:
 [X] Dividing the bill among provided # of people
 
 ## Video Walkthrough
-<img src='https://imgur.com/a/vs5fASC' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<img src='http://i.imgur.com/a/vs5fASC.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes 
 I'm new to IOS and mobile development in general and it took me a while to get familiarized with Swift and Xcode. The tutorial was simple but working on your own with no experience can be tricky. Still I tool a crack at a few of the bonus features and implemented one from the examples that I liked. There are still plenty more that I'd like to add and I will continue working on this app whenever I can.
