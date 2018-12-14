@@ -17,7 +17,7 @@ The following ** additional** features are implemented:
 [X] Dividing the bill among provided # of people
 
 ## Video Walkthrough
-
+Attempts to embed continue to yield"Non-image content type returned" -  in interm gif can be found here http://i.imgur.com/a/vs5fASC
 <img src='http://i.imgur.com/a/vs5fASC.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes 
